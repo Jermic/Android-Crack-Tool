@@ -2,6 +2,9 @@
 Android-Crack-Tool For Mac
 ================
 
+### [中文](https://github.com/Jermic/Android-Crack-Tool/blob/master/README.md)
+### [English](https://github.com/Jermic/Android-Crack-Tool/blob/master/README-EN.md)
+
 ## 简介
 本软件集成了Android开发中常见的一些编译/反编译工具,方便用户对Apk进行逆向分析,提供Apk信息查看功能.目前主要功能包括(详细使用方法见使用说明):
 
@@ -86,7 +89,6 @@ Android-Crack-Tool For Mac
 2.JDK
 测试了JDK8，其它版本系统未测试，如果出现问题邮件反馈一下
 ```
-
 ### 使用说明:
 ```
 1.点击浏览打开选择相应功能文件，如果格式错误将无法选中
