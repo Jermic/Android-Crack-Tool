@@ -8,27 +8,33 @@ Android-Crack-Tool For Mac
 The software integrates with Android development some common assembler / disassembler tool, user-friendly Apk reverse analysis, providing Apk View feature is currently the main functions include (see detailed usage):
 
 - Decompile APK
-- Reconstruction APK
+- Rebuild APK
 - Signature APK
-- Optimization of APK
+- Optimization APK
 - DEX2JAR (APK2JAR)
 - JDGUI
-- Extraction DEX
-- XML
-- CS2SM
+- Extract DEX
+- Extract  XML
+- Class to smail
+- Scan ApkInfo
+- Unicode Convert
 
 ## Downloads
 [Git Download] (https://github.com/Jermic/Android-Crack-Tool/releases)
 
 [Network disk download] (https://pan.baidu.com/s/1mhWpG60) Password: 9k5k
 ## Screenshots
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/1.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/7.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/4.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/8.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/5.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/9.png)
 
 ## Change Log:
+### V2.5
+```
+1. Support for Englist
+```
 ### V2.3.2
 ```
 1. solve some BUG
@@ -42,16 +48,16 @@ The software integrates with Android development some common assembler / disasse
 ### V2.0
 ```
 1. Modify the main interface layout, adding new features items
-Extraction DEX, extract XML, ApkInfo, Unicode
+	Extraction DEX, extract XML, ApkInfo, Unicode
 2. Add Start & End identification log
 3. Extraction DEX
-DEX files extracted from the APK file
+	DEX files extracted from the APK file
 4. Extract XML
-Extract and parse the XML file from the APK file
+	Extract and parse the XML file from the APK file
 5.ApkInfo
-Scan APK basic information
+	Scan APK basic information
 6.Unicode
-Plus solution Unicode conversion
+	Plus solution Unicode conversion
 7. solve some BUG
 ```
 ### V1.0
@@ -59,18 +65,18 @@ Plus solution Unicode conversion
 The main function:
 1. Integrated Common decompile cracking tools
 2. decompile APK
-Default ShakaApkTool (Settings page can be switched to ApkTool)
-To decompile the apk file
+	Default ShakaApkTool (Settings page can be switched to ApkTool)
+	To decompile the apk file
 3. Rebuild APK
-According to regenerate apk apk file decompile get directory
+	According to regenerate apk apk file decompile get directory
 3. Signature APK
-Use SignApk to sign the apk file
+	Use SignApk to sign the apk file
 4. Optimize APK
-Apk file for use Zipalign optimize alignment
+	Apk file for use Zipalign optimize alignment
 5.DEX2JAR (APK2JAR)
-The apk file dex file into jar file format, select the format supported apk, dex
+	The apk file dex file into jar file format, select the format supported apk, dex
 6.JDGUI
-Open Jar file using JDGUI
+	Open Jar file using JDGUI
 ```
 ### Plugins:
 ```
