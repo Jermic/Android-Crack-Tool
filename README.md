@@ -15,8 +15,10 @@ Android-Crack-Tool For Mac
 - DEX2JAR（APK2JAR）
 - JDGUI
 - 提取DEX
-- XML
-- CS2SM
+- 提取XML
+- Class to smail
+- Apk信息查看
+- Unicode转换
 
 ## 下载
 [Git下载](https://github.com/Jermic/Android-Crack-Tool/releases)
@@ -25,11 +27,15 @@ Android-Crack-Tool For Mac
 ## 截图
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/1.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/4.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/2.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/5.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/9.png)
 
 ## 版本更新:
+### V2.5
+```
+1.提供英文版本
+```
 ### V2.3.2
 ```
 1.解决部分BUG
@@ -111,6 +117,7 @@ Android-Crack-Tool For Mac
 ```
 ### 历史版本:
 ```
+2016年08月22日    AndroidCrackTool 2.5 (For MAC)
 2016年08月02日    AndroidCrackTool 2.4 (For MAC)
 2016年05月09日    AndroidCrackTool 2.3.2 (For MAC)
 2016年01月26日    AndroidCrackTool 2.2 (For MAC)

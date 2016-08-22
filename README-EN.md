@@ -117,6 +117,7 @@ smali CS2SM turn Smail logo
 ```
 ### Update history:
 ```
+August 22, 2016 AndroidCrackTool 2.5 (For MAC)
 August 2, 2016 AndroidCrackTool 2.4 (For MAC)
 May 9, 2016 AndroidCrackTool 2.3.2 (For MAC)
 January 26, 2016 AndroidCrackTool 2.2 (For MAC)
