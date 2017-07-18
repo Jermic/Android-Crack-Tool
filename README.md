@@ -31,7 +31,17 @@ Android-Crack-Tool For Mac
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/g2.gif)
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/9.png)
 
+
+## 无法打开提示损坏
+run
+```shell
+sudo spctl --master-disable
+```
+go to System Preferences > Security & Privacy > General > check Allow Anywhere
+
+
 ## 版本更新:
+
 ### V2.5
 ```
 1.提供英文版本
