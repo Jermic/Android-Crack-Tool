@@ -21,23 +21,25 @@ Android-Crack-Tool For Mac
 - Apk信息查看
 - Unicode转换
 
-## 下载
+## 下载 
 [Git下载](https://github.com/Jermic/Android-Crack-Tool/releases)
 
-[网盘下载](https://pan.baidu.com/s/1mhWpG60) 密码: 9k5k
+[网盘下载(网盘分享总被和谐，不定期更新)](https://pan.baidu.com/s/1dPtuMqW1GQbgX3LA12xt4Q) 密码: vq44
+
+
+## 无法打开提示损坏
+打开终端执行
+```shell
+sudo spctl --master-disable
+```
+在系统设置中修改权限
+go to System Preferences > Security & Privacy > General > check Allow Anywhere
+
 
 ## 截图
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/g1.gif)
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/g2.gif)
 ![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/9.png)
-
-
-## 无法打开提示损坏
-run
-```shell
-sudo spctl --master-disable
-```
-go to System Preferences > Security & Privacy > General > check Allow Anywhere
 
 
 ## 版本更新:
