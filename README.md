@@ -37,9 +37,9 @@ go to System Preferences > Security & Privacy > General > check Allow Anywhere
 
 
 ## 截图
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/g1.gif)
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/g2.gif)
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/9.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/g1.gif)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/g2.gif)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/9.png)
 
 
 ## 版本更新:
@@ -147,4 +147,4 @@ By Jermic
 Email:Jermic@qq.com
 QQ 群:151381462
 ```
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/qqun.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/qqun.png)
