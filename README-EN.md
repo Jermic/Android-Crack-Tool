@@ -25,11 +25,11 @@ The software integrates with Android development some common assembler / disasse
 
 [Network disk download] (https://pan.baidu.com/s/1dPtuMqW1GQbgX3LA12xt4Q) Password: vq44
 ## Screenshots
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/screenshots/7.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/7.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/screenshots/8.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/8.png)
 
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/screenshots/9.png)
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/9.png)
 
 ## Change Log:
 ### V2.5
