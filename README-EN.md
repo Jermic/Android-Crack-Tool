@@ -133,4 +133,7 @@ Have better suggestions welcome to put forward, as soon as possible to improve
 By Jermic
 
 Email: Jermic@qq.com
+公众号:一口袋码
 ```
+
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/wx_code.jpg)

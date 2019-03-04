@@ -145,6 +145,7 @@ go to System Preferences > Security & Privacy > General > check Allow Anywhere
 By Jermic
 
 Email:Jermic@qq.com
-QQ 群:151381462
+公众号:一口袋码
 ```
-![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/qqun.png)
+
+![](https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/screenshots/wx_code.jpg)
