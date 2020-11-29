@@ -2,6 +2,8 @@
 Android-Crack-Tool For Mac
 ================
 
+！！！ GUI 暂时不再更新，用户可手动替换相应最新版 jar 文件到软件内进行使用 ！！！
+
 ![](https://img.shields.io/badge/platform-macOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/version-2.5.1-red.svg)
 
 [中文](https://github.com/Jermic/Android-Crack-Tool/blob/master/README.md)  [English](https://github.com/Jermic/Android-Crack-Tool/blob/master/README-EN.md)
@@ -24,7 +26,7 @@ Android-Crack-Tool For Mac
 ## 下载 
 [Git下载](https://github.com/Jermic/Android-Crack-Tool/releases)
 
-[网盘下载(网盘分享总被和谐，不定期更新)](https://pan.baidu.com/s/1dPtuMqW1GQbgX3LA12xt4Q) 密码: vq44
+[网盘下载(网盘分享总被和谐，不定期更新)](https://pan.baidu.com/s/1Wf7cvY44AQ07ki_yX0KwEg) 密码: rtf1
 
 
 ## 无法打开提示损坏
