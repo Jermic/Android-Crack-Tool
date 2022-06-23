@@ -2,7 +2,7 @@
 Android-Crack-Tool For Mac
 ================
 
-！！！ GUI 暂时不再更新，用户可手动替换相应最新版 jar 文件到软件内进行使用 ！！！
+！！!！ GUI 暂时不再更新，用户可手动替换相应最新版 jar 文件到软件内进行使用 ！！！!
 
 ![](https://img.shields.io/badge/platform-macOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/version-2.5.1-red.svg)
 
